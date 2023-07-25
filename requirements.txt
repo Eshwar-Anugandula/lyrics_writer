@@ -1,5 +1,5 @@
 openai
-streamlit
+streamlit==1.12.0
 os
 wavio
 scipy.io.wavfile
