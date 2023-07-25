@@ -1,8 +1,8 @@
 openai
 streamlit==1.12.0
 os
-wavio
+wavio==0.0.2
 scipy.io.wavfile
-sounddevice
+sounddevice==0.2.1
 
 
